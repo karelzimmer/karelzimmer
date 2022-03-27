@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @karelzimmer
 - 👀 I’m interested in Linux
-- 🌱 I’m currently learning Git
+- 🌱 I’m currently learning Git and Ansible
 - 📫 How to reach me [karelzimmer.nl](https://karelzimmer.nl), or info@karelzimmer.nl
 
 <!---
