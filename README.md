@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @karelzimmer
 - 👀 I’m a Linux addict and certified Linux admin
-- 🌱 I’m currently learning and using Ansible, Git, and Rust
+- 🌱 I’m currently creating Linux scripts in Bash and Python using vscode and Git
 - 📫 Reach me via [karelzimmer.nl](https://karelzimmer.nl/en), or info@karelzimmer.nl
 
 <!---
